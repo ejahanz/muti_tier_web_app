@@ -63,7 +63,7 @@ git push origin main
 ```
 
 ## 📌 Notes
-- The RDS password is stored in `terraform.tfvars`. **Do not commit this file.**
+- The RDS password is stored locally in `terraform.tfvars`. **It has not been committed to this file.**
 - State files are local. You can configure an S3 backend for remote state storage.
 
 ## 🛠 Tech Stack
