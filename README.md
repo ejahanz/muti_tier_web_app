@@ -73,4 +73,3 @@ git push origin main
 
 ---
 
-Feel free to fork and extend this infrastructure by adding Route53, SSL via ACM, ECS for containers, or CloudFront!
